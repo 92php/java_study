@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.txw2.Document"/>
+<fullyQualifiedTypeName name="org.dom4j.Node"/>
+<fullyQualifiedTypeName name="org.dom4j.Document"/>
+<fullyQualifiedTypeName name="org.dom4j.Element"/>
+<fullyQualifiedTypeName name="com.imooc.mgallery.utils.XmlDataSource"/>
+<fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.servlet.ServletFileUpload"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="java.io.Writer"/>
+</qualifiedTypeNameHistroy>
